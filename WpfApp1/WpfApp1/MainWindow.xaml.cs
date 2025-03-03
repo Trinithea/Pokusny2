@@ -26,12 +26,10 @@ namespace WpfApp1
             string ss = "Ahoj";
             List<int> list = new List<int>();
             List<string> listString = new List<string>();
-<<<<<<< HEAD
             int cislo3 = 0;
-=======
             int cislo4 = 0;
             int cislo5 = 8;
->>>>>>> origin/main
+            int cislo6 = 6;
         }
     }
 }
