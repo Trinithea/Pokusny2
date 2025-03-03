@@ -30,6 +30,7 @@ namespace WpfApp1
             int cislo4 = 0;
             int cislo5 = 8;
             int cislo6 = 6;
+            int cislo7 = 7;
         }
     }
 }
