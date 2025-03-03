@@ -19,7 +19,11 @@ namespace WpfApp1
         public MainWindow()
         {
             InitializeComponent();
+<<<<<<< Updated upstream
             int cislo2 = 8;
+=======
+            int cislo = 6;
+>>>>>>> Stashed changes
         }
     }
 }
