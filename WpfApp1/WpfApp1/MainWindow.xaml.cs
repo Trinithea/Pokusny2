@@ -19,6 +19,7 @@ namespace WpfApp1
         public MainWindow()
         {
             InitializeComponent();
+            int cislo2 = 8;
         }
     }
 }
