@@ -22,7 +22,12 @@ namespace WpfApp1
             int cislo2 = 8;
             int cislo = 6;
             string s = "ahoj";
+<<<<<<< Updated upstream
             string sss = "ahoj";
+=======
+            string ss = "Ahoj";
+
+>>>>>>> Stashed changes
         }
     }
 }
