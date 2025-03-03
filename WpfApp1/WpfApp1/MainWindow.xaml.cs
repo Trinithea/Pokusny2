@@ -27,6 +27,7 @@ namespace WpfApp1
             List<int> list = new List<int>();
             List<string> listString = new List<string>();
             int cislo4 = 0;
+            int cislo5 = 8;
         }
     }
 }
