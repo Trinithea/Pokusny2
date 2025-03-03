@@ -22,6 +22,7 @@ namespace WpfApp1
             int cislo2 = 8;
             int cislo = 6;
             string s = "ahoj";
+            string sss = "ahoj";
         }
     }
 }
