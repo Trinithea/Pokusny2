@@ -24,11 +24,9 @@ namespace WpfApp1
             string s = "ahoj";
             string sss = "ahoj";
             string ss = "Ahoj";
-<<<<<<< Updated upstream
             List<int> list = new List<int>();
-=======
             List<string> listString = new List<string>();
->>>>>>> Stashed changes
+            int cislo4 = 0;
         }
     }
 }
