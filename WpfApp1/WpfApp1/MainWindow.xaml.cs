@@ -1,4 +1,4 @@
-﻿using System.Text;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -24,7 +24,11 @@ namespace WpfApp1
             string s = "ahoj";
             string sss = "ahoj";
             string ss = "Ahoj";
+<<<<<<< Updated upstream
             List<int> list = new List<int>();
+=======
+            List<string> listString = new List<string>();
+>>>>>>> Stashed changes
         }
     }
 }
